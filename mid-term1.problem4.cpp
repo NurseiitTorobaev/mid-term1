@@ -3,7 +3,7 @@
 
 using namespace std;
 
-int isPrime(int N)
+int isPrime(int N) //looking for prime number//
 {
     int c = 1;
     while (c!=0)
